@@ -8,5 +8,7 @@
 
 去除cs的另外一个stagerless特征，该特征由东皇师傅提供。
 
+修改%HOMEPATH%/.aggressor.prop文件到当前目录的config.prop
+
 **注意** 
 未修改默认cs证书
