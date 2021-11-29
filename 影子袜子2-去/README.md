@@ -36,7 +36,7 @@ go get -u -v github.com/shadowsocks/go-shadowsocks2
 Start a server listening on port 8488 using `AEAD_CHACHA20_POLY1305` AEAD cipher with password `your-password`.
 
 ```sh
-go-shadowsocks2 -s 'ss://AEAD_CHACHA20_POLY1305:your-password@[VSP]:8488' -verbose
+go-shadowsocks2 -s 'ss://AEAD_CHACHA20_POLY1305:your-password@[VPS_IP]:8488' -verbose
 ```
 
 
